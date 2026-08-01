@@ -7,26 +7,23 @@ The open-source, public-facing arm of Federated Industrial.
 
 ## About
 
-Labs is a subsidiary identity of Federated Industrial. Federated Industrial (proper)
-holds the closed-circuit work; Labs holds the work that is explicitly
-meant to be visible to, and usable by, others. There is no separate
-corporate entity at this stage; Labs is an organisational and
-publishing convention.
+Federated Industrial Labs is the public arm of Federated Industrial. We design and operate autonomous production systems: software infrastructure that plans, implements, tests and documents software under the direction, review and legal ownership of its operator.
 
-The mandate (currently) is short: closed-circuit compute and development tasks,
-made selectively public.
+Work that reaches release quality is published openly. Our languages, libraries and tools are released with full source code and documentation, and are engineered to carry as few external dependencies as practical.
 
-## What we publish here
+## Ethos
 
-Labs takes experimental work and publishes the parts that stand on
-their own. Three categories sit naturally under this organisation:
+Federated Industrial Labs exists to demonstrate that software can be produced with the rigour of industrial manufacturing: deliberately, repeatably and with complete records, by autonomous systems operating under human direction.
 
-- **Standalone tools and libraries** with no internal-only
-  dependencies.
-- **Method writeups** whose value does not require shipping the
-  surrounding system.
-- **Reference implementations** of techniques developed inside
-  Federated Industrial work.
+We draw a clear distinction between the labour of software production and its ownership. Autonomous systems are now capable of carrying much of the labour: implementation, testing, revision and documentation. Judgement about what should be built, direction of the work, and accountability for what is released remain with people. Our systems are engineered around that division of responsibility.
+
+The aim is not to replace engineering judgement but to extend its reach. A single operator directing a well-managed production system should be able to deliver work at a scale that previously required a department, with records more complete than most departments keep.
+
+Terra, our current programme, is this approach in practice: a management system that converts an operator's goals into planned, dispatched, supervised and verified production. It is described in detail on its own page, and the components it matures are published as they reach release quality.
+
+Two engineering principles apply across all of our work. We keep dependency surfaces small, because software that is relied upon should be auditable in full. And we design components to operate independently: adopting one of our tools does not require adopting the rest.
+
+Completed work is published with its source code and documentation. We consider inspectability a requirement for trust in production software, and we apply that requirement to our own output.
 
 ## Posture
 
