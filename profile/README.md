@@ -1,35 +1,64 @@
-# Federated Industrial Labs
-![Organisation: Federated Industrial Labs](https://img.shields.io/badge/Organisation-Federated%20Industrial%20Labs-eb8713?style=plastic&labelColor=5f5f5f)
-![Field: Systems/AI/Embedded](https://img.shields.io/badge/Field-Systems%2fAI%2fEmbedded-eb8713?style=plastic&labelColor=5f5f5f)
-![Onboarding Members: Invite Only](https://img.shields.io/badge/Onboarding%20Members-Invite%20Only-eb8713?style=plastic&labelColor=5f5f5f)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/mark-dark.svg">
+    <img src="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/mark.svg" width="112" alt="Federated Industrial">
+  </picture>
+</p>
 
-The open-source, public-facing arm of Federated Industrial.
+<h1 align="center">Federated Industrial Laboratories</h1>
 
-## About
+<p align="center">Systems research. Software engineering.</p>
 
-Federated Industrial Labs is the public arm of Federated Industrial. We design and operate autonomous production systems: software infrastructure that plans, implements, tests and documents software under the direction, review and legal ownership of its operator.
+<p align="center">
+  <a href="https://federatedindustrial.com/">Website</a> |
+  <a href="https://github.com/orgs/Federated-Industrial-Laboratories/repositories">Repositories</a> |
+  <a href="#ethos">Ethos</a> |
+  <a href="mailto:contact@federatedindustrial.com">Contact</a>
+</p>
 
-Work that reaches release quality is published openly. Our languages, libraries and tools are released with full source code and documentation, and are engineered to carry as few external dependencies as practical.
+<p align="center"><img src="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/divider.svg" width="720" alt=""></p>
+
+Federated Industrial Laboratories is the public research and engineering arm of Federated Industrial.
+We build software systems, libraries and tools for computation, automation and inspection.
+
+Our work connects systems research with practical engineering: understanding how a system behaves,
+making effective use of the hardware beneath it, and turning that understanding into useful software.
 
 ## Ethos
 
-Federated Industrial Labs exists to demonstrate that software can be produced with the rigour of industrial manufacturing: deliberately, repeatably and with complete records, by autonomous systems operating under human direction.
+We believe that capable software should give people greater control over their work.
+A system should be understandable, adaptable and useful beyond the circumstances in which it was first built.
 
-We draw a clear distinction between the labour of software production and its ownership. Autonomous systems are now capable of carrying much of the labour: implementation, testing, revision and documentation. Judgement about what should be built, direction of the work, and accountability for what is released remain with people. Our systems are engineered around that division of responsibility.
+Autonomy is part of that aim. Systems can carry out increasingly complex work, while people set their purpose,
+define the limits of their authority and remain accountable for their use.
+Inspection, intervention and recovery belong in the design from the start.
 
-The aim is not to replace engineering judgement but to extend its reach. A single operator directing a well-managed production system should be able to deliver work at a scale that previously required a department, with records more complete than most departments keep.
+We value careful engineering: clear interfaces, deliberate use of resources and claims supported by evidence.
+Source code, tests and documentation should let others examine the work and judge its suitability for themselves.
 
-Terra, our current programme, is this approach in practice: a management system that converts an operator's goals into planned, dispatched, supervised and verified production. It is described in detail on its own page, and the components it matures are published as they reach release quality.
+<p align="center"><img src="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/divider.svg" width="720" alt=""></p>
 
-Two engineering principles apply across all of our work. We keep dependency surfaces small, because software that is relied upon should be auditable in full. And we design components to operate independently: adopting one of our tools does not require adopting the rest.
+## Engineering principles
 
-Completed work is published with its source code and documentation. We consider inspectability a requirement for trust in production software, and we apply that requirement to our own output.
+- **Make behaviour inspectable.** Describe what a system does, what it depends on and where its limits lie.
+- **Measure what matters.** Test complete workflows and keep results tied to the conditions in which they were obtained.
+- **Keep components independent.** Use clear boundaries and avoid unnecessary dependencies, so tools can stand on their own.
+- **Preserve control and continuity.** Give operators explicit authority and practical ways to inspect, stop and recover their systems.
+- **Build for continued use.** Treat documentation, maintainability and efficient resource use as part of the work.
 
-## Posture
+<p align="center"><img src="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/divider.svg" width="720" alt=""></p>
 
-Each repository under this organisation carries its own `LICENSE`
-file. That file is authoritative for the artefact it accompanies.
+## Open work
+
+Our public repositories contain source code, documentation and the terms under which each work can be used.
+Each repository's licence applies to that repository; there is no single licence for the organisation's entire catalogue.
+
+Browse the [repositories](https://github.com/orgs/Federated-Industrial-Laboratories/repositories)
+for individual projects, or visit the [website](https://federatedindustrial.com/) for the wider work of the laboratory.
 
 ## Contact
 
-`contact@federatedindustrial.com`
+For technical questions, research collaboration or software enquiries:
+[contact@federatedindustrial.com](mailto:contact@federatedindustrial.com).
+
+<p align="center"><img src="https://raw.githubusercontent.com/Federated-Industrial-Laboratories/.github/main/profile/assets/divider.svg" width="720" alt=""></p>
