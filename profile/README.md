@@ -54,7 +54,7 @@ Our public repositories contain source code, documentation and the terms under w
 Each repository's licence applies to that repository; there is no single licence for the organisation's entire catalogue.
 
 Browse the [repositories](https://github.com/orgs/Federated-Industrial-Laboratories/repositories)
-for individual projects, or visit the [website](https://federatedindustrial.com/) for the wider work of the laboratory.
+for individual projects, or visit the [website](https://labs.federatedindustrial.com/) for the wider work of the laboratory.
 
 ## Contact
 
