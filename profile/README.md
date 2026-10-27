@@ -10,7 +10,7 @@
 <p align="center">Systems research. Software engineering.</p>
 
 <p align="center">
-  <a href="https://federatedindustrial.com/">Website</a> |
+  <a href="https://labs.federatedindustrial.com/">Website</a> |
   <a href="https://github.com/orgs/Federated-Industrial-Laboratories/repositories">Repositories</a> |
   <a href="#ethos">Ethos</a> |
   <a href="mailto:contact@federatedindustrial.com">Contact</a>
